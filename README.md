@@ -1,0 +1,2 @@
+# regularproperties
+ПР7
